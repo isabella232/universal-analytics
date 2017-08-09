@@ -17,7 +17,8 @@
     "tracking"
   ],
   "dependencies": {
-    "request": "2.x",
+    "axios": "^0.16.2",
+    "query-string": "^5.0.0",
     "sinon": "^1.17.7",
     "uuid": "^3.0.0"
   },

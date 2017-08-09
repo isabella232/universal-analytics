@@ -1,6 +1,5 @@
 
-var request = require("request");
-var qs = require("querystring");
+var qs = require("query-string");
 var uuid = require("uuid");
 var should = require("should");
 var sinon = require("sinon");
